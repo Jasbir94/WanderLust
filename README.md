@@ -138,8 +138,8 @@ This project demonstrates complete full-stack development skills, covering front
 
 ## 👨‍💻 Author
 
-**Resmit Dholariya**  
-GitHub: https://github.com/resmit-dholariya
+**Jasbir Singh**  
+GitHub: [https://github.com/Jasbir94)
 
 ---
 
